@@ -53,7 +53,7 @@ android {
         }
     }
 }
-
+cjh
 flutter {
     source '../..'
 }
